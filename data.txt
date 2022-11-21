@@ -1,1 +1,2 @@
-
+Cluster analysis
+One-way anova 
