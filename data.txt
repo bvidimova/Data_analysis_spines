@@ -1,2 +1,3 @@
 Cluster analysis
 One-way anova 
+rmANOVA
